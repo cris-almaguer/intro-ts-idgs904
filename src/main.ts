@@ -6,7 +6,9 @@ import "./intro-ts/01-tipos-bas";
 import "./intro-ts/02-obj-interfac-arre";
 import "./intro-ts/03-functions";
 import "./intro-ts/04-desestructure-object";
-
+import "./intro-ts/05-classes";
+import "./intro-ts/06-inerithance";
+import "./intro-ts/07-generics";
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
